@@ -13,6 +13,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.6
   slidy: ^4.0.4
+  string_validator: ^1.0.2-nullsafety
+  mocktail: ^1.0.3-nullsafety
+  dartz: ^0.10.1-nullsafety
+  kiwi: ^5.0.0-nullsafety
 
 dev_dependencies:
   flutter_test:
